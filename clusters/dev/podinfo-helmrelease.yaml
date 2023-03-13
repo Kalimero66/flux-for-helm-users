@@ -17,7 +17,7 @@ spec:
   releaseName: elakbou-flux-helm
   values:
     logLevel: debug
-    replicaCount: 6
+    replicaCount: 1
     ui:
-      color: blue
+      color: red
 
